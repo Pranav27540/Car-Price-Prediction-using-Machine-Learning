@@ -1,4 +1,4 @@
-###Car Price Prediction
+**Car Price Prediction**
 
 This project predicts the prices of used cars using machine learning techniques. It analyzes multiple features of cars such as year, present price, kilometers driven, fuel type, seller type, transmission type, and ownership history to estimate a fair resale value.
 
